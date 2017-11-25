@@ -16,4 +16,4 @@ along with information how many times each letter is found.
 10. Write a program that reads a string from the console and lists all different words in the string along with 
 information how many times each word is found.
 11. Write a program that reads a string from the console and replaces all series of consecutive identical 
-letters with a single one. Example: “zzzzzaaaarrrriiiiiiiibbbbbbbaaaaa" ? “zariba".
+letters with a single one. Example: “zzzzzaaaarrrriiiiiiiibbbbbbbaaaaaa" ? “zariba".
